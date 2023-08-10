@@ -1,4 +1,4 @@
-6#Interactive Image Processor
+#Interactive Image Processor
 #John Man
 #Nov 11th, 2021
 import cmpt120imageHelper
