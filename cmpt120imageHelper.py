@@ -1,9 +1,3 @@
-# Some helper functions to wrap the Pygame image functions
-# Supports laod+save for common image formats like PNG, JPG, and BMP
-# Pre-requisite: Pygame and Numpy modules imported
-# Authors: Angelica Lim, Victor Cheung
-# Late update: 20 Aug, 2021
-
 import pygame
 import numpy
 
